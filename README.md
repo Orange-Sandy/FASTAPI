@@ -1,1 +1,1 @@
-# FASTAPI
+# A simple FASTAPI code to GET user details using SQLAlchemy
