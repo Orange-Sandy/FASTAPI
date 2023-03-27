@@ -1,7 +1,6 @@
-from fastapi import FastAPI,Request
+from fastapi import FastAPI
 import routes.user as init
 import uvicorn
-import time
 
 
 app = FastAPI()
