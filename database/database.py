@@ -23,5 +23,5 @@ def get_db():
         db.close()
 
 # Refers the users table in db (with fields - id, name, email & password)
-user = Base.classes.users
+User = Base.classes.users
 
